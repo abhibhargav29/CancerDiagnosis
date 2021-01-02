@@ -6,6 +6,6 @@ variation features and tf-idf weighted bag of words for the test feature vectori
 </p>
 
 <p align="justify">
-Data: The data has been taken from a kaggle competition and could not be uploaded due to large size. We have training text and variants in seperate text files.
-</p>
+Data: The data has been taken from a kaggle competition and could not be uploaded due to large size. We have training text and variants in seperate text files.<br>
 Link: https://www.kaggle.com/c/msk-redefining-cancer-treatment
+</p>
